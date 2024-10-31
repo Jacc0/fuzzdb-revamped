@@ -1,3 +1,4 @@
+Source: https://gist.github.com/Spix0r/85edd0ad5a23f0e011a24654a732ae44#file-403-bypass-headers-list-txt
 Allow: CONNECT
 Allow: GET
 Allow: HEAD
